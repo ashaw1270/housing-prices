@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it using the following metadata."
+title: "Housing Price Prediction"
+authors:
+  - family-names: Kim
+    given-names: Michael
+  - family-names: Kushalapa
+    given-names: Anish
+  - family-names: Shaw
+    given-names: Adam
+date-released: 2025-05-07
+version: 1.0.0
+repository-code: https://github.com/ashaw1270/housing-prices
