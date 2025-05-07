@@ -1,4 +1,4 @@
-This repository contains the code for reproducing the results of our paper, [When Less is More: Evaluating Simplicity vs. Complexity in House Price Prediction](./'House Prices Paper.pdf').
+This repository contains the code for reproducing the results of our paper, [When Less is More: Evaluating Simplicity vs. Complexity in House Price Prediction](House%20Prices%20Paper.pdf').
 
 # Abstract
 
