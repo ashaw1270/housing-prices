@@ -16,7 +16,7 @@ Predicting house prices accurately is essential for buyers and sellers alike. Th
 
 Accurately predicting house prices using property features can provide crucial information to homebuyers, real estate agents, and policymakers. In this paper, we aim to extract valuable information from our dataset to create a model that accurately predicts price.
 
-To train our model, we used the Housing Prices Dataset from Kaggle~\cite{kaggle}, which consisted of 545 houses, each with 13 features, which are laid out in Table~\ref{tab:Features}. In our early planning phase, we ruled out some models due to their incompatibility with our dataset. For example, we considered using neural networks; however, due to the limited sample size, we concluded that it would not be effective. Clustering algorithms such as k-nearest neighbors were also ruled out, as the dataset’s high proportion of categorical features could compromise performance. After eliminating these models, we narrowed it down to approaches better suited to the characteristics of our data.
+To train our model, we used the [Housing Prices Dataset](https://www.kaggle.com/datasets/yasserh/housing-prices-dataset) from Kaggle, which consisted of 545 houses, each with 13 features. In our early planning phase, we ruled out some models due to their incompatibility with our dataset. For example, we considered using neural networks; however, due to the limited sample size, we concluded that it would not be effective. Clustering algorithms such as k-nearest neighbors were also ruled out, as the dataset’s high proportion of categorical features could compromise performance. After eliminating these models, we narrowed it down to approaches better suited to the characteristics of our data.
 
 ## Conclusion
 
