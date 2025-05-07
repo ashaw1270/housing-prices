@@ -1,4 +1,4 @@
-This repository contains the code for reproducing the results of our paper, [When Less is More: Evaluating Simplicity vs. Complexity in House Price Prediction](House%20Prices%20Paper.pdf').
+This repository contains the code for reproducing the results of our paper, [When Less is More: Evaluating Simplicity vs. Complexity in House Price Prediction](House%20Prices%20Paper.pdf).
 
 Authors: Michael Kim, Anish Kushalapa, Adam Shaw (all authors contributed equally, names listed alphabetically).
 
